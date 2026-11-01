@@ -1,0 +1,34 @@
+{
+  "modules": 40,
+  "analysis_seconds": 0.0538,
+  "per_principle": {
+    "SRP": {
+      "tp": 8,
+      "fp": 0,
+      "fn": 3,
+      "precision": 1.0,
+      "recall": 0.727
+    },
+    "OCP": {
+      "tp": 2,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    "ISP": {
+      "tp": 6,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0
+    }
+  },
+  "module_level": {
+    "tp": 16,
+    "fp": 0,
+    "fn": 3,
+    "precision": 1.0,
+    "recall": 0.842
+  }
+}
